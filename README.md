@@ -1,2 +1,2 @@
 # one
-I am a freshman,this is my first repository
+I am a new hand,this is my first repository
